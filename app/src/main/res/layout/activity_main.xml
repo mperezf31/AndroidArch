@@ -8,7 +8,7 @@
 
         <variable
             name="user"
-            type="com.example.mperezf.lifecycleapplication.UserViewModel" />
+            type="com.example.mperezf.vmapplication.UserViewModel" />
     </data>
 
     <FrameLayout

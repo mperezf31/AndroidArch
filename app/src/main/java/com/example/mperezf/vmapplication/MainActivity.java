@@ -1,4 +1,4 @@
-package com.example.mperezf.lifecycleapplication;
+package com.example.mperezf.vmapplication;
 
 import android.arch.lifecycle.Observer;
 import android.arch.lifecycle.ViewModelProviders;
@@ -12,7 +12,7 @@ import android.support.v7.widget.DividerItemDecoration;
 import android.view.View;
 import android.view.inputmethod.InputMethodManager;
 
-import com.example.mperezf.lifecycleapplication.databinding.ActivityMainBinding;
+import com.example.mperezf.vmapplication.databinding.ActivityMainBinding;
 
 import java.util.List;
 

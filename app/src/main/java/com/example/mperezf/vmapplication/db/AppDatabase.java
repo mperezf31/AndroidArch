@@ -1,4 +1,4 @@
-package com.example.mperezf.lifecycleapplication.db;
+package com.example.mperezf.vmapplication.db;
 
 import android.arch.persistence.room.Database;
 import android.arch.persistence.room.Room;

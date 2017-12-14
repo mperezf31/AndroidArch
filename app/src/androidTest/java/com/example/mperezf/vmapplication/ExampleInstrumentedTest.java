@@ -1,4 +1,4 @@
-package com.example.mperezf.lifecycleapplication;
+package com.example.mperezf.vmapplication;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

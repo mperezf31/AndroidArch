@@ -1,9 +1,9 @@
-package com.example.mperezf.lifecycleapplication;
+package com.example.mperezf.vmapplication;
 
 import android.arch.lifecycle.ViewModel;
 import android.support.annotation.NonNull;
 
-import com.example.mperezf.lifecycleapplication.db.UserModel;
+import com.example.mperezf.vmapplication.db.UserModel;
 
 public class ItemViewModel extends ViewModel {
 

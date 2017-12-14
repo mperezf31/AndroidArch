@@ -1,4 +1,4 @@
-package com.example.mperezf.lifecycleapplication;
+package com.example.mperezf.vmapplication;
 
 import org.junit.Test;
 

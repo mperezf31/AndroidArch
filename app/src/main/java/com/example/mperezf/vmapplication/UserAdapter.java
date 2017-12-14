@@ -1,4 +1,4 @@
-package com.example.mperezf.lifecycleapplication;
+package com.example.mperezf.vmapplication;
 
 import android.databinding.DataBindingUtil;
 import android.support.annotation.NonNull;
@@ -6,7 +6,7 @@ import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.ViewGroup;
 
-import com.example.mperezf.lifecycleapplication.databinding.RowUserItemBinding;
+import com.example.mperezf.vmapplication.databinding.RowUserItemBinding;
 
 import java.util.ArrayList;
 import java.util.List;

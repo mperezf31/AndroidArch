@@ -1,4 +1,4 @@
-package com.example.mperezf.lifecycleapplication;
+package com.example.mperezf.vmapplication;
 
 import android.app.Application;
 import android.arch.lifecycle.AndroidViewModel;
@@ -11,8 +11,8 @@ import android.databinding.ObservableField;
 import android.support.annotation.NonNull;
 import android.util.Log;
 
-import com.example.mperezf.lifecycleapplication.db.AppDatabase;
-import com.example.mperezf.lifecycleapplication.db.UserModel;
+import com.example.mperezf.vmapplication.db.AppDatabase;
+import com.example.mperezf.vmapplication.db.UserModel;
 
 import java.util.ArrayList;
 import java.util.List;
