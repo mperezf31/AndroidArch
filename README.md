@@ -1,2 +1,2 @@
 # AndroidArch
-This project uses Android Architecture Components
+This project uses new architecture components such as Lifecycles, LiveData, ViewModel and Room database
